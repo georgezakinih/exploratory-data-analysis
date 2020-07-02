@@ -13,4 +13,5 @@
 9. Extra: Create a simple classifier
 
 # Click here to start the notebooks using Binder: 
-https://mybinder.org/v2/gh/georgezakinih/exploratory-data-analysis/master
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/georgezakinih/exploratory-data-analysis/master)
+

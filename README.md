@@ -11,3 +11,7 @@
 7. Impute missing data using pandas or sklearn imputers
 8. Dimensionality reduciton using PCA and TSNE
 9. Extra: Create a simple classifier
+
+# Click here to start the notebooks using Binder: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/georgezakinih/exploratory-data-analysis/master)
+

@@ -1,6 +1,6 @@
 # Examples of performaing Explorator Data Analysis for few public clinical data sets.
 
-## General steps for EDA:
+## General steps for Exploratory Data Analysis:
 
 1. Display summary statistics 
 2. Explore values, identify missing data and outliers
